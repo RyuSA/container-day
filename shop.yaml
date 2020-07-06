@@ -234,7 +234,7 @@ metadata:
   name: front-end
   labels:
     name: front-end
-      spec:
+spec:
   type: NodePort
   ports:
   - port: 80
